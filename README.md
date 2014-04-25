@@ -21,5 +21,8 @@ copied to the folder:
 ----------------------------------
 set the color syntax is best shown in Figure `setting_color.PNG` , but it's inviduálním settings.
 
+![alt tag](https://raw.githubusercontent.com/ok2uec/UO-Sphereserver-56b-plugin-PSPAD/master/setting_color.PNG)
+ 
+
 
 @ENJOY GM ANCIS (GM VIPER)
